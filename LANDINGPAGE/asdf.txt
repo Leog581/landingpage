@@ -1,0 +1,10 @@
+    <!-- Testimonios -->
+    <section class="testimonios">
+        <h3>Lo que dicen nuestros usuarios</h3>
+        <div class="testimonio">
+            <p>"El mejor mercado de skins. Confiable y rápido." - Luca "LUKEN" Nadotti</p>
+        </div>
+        <div class="testimonio">
+            <p>"Siempre encuentro las skins que quiero a un buen precio." - Nicolás "NikoM" Miozzi </p>
+        </div>
+    </section>
